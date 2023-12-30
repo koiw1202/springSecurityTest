@@ -1,4 +1,4 @@
-package com.example;
+package com.example.ch02;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
