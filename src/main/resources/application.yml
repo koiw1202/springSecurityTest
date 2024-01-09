@@ -10,5 +10,30 @@ spring:
       ddl-auto: update
 
 
-authorization:
-  key: SD9cICji1e
+server:
+  port: 9090
+
+auth:
+  server:
+    base:
+      url: http://localhost:8080
+
+jwt:
+  signing:
+    key: ymLTU8rq83j4fmJZj60wh4OrMNuntIj4fmJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
